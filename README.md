@@ -21,3 +21,6 @@ Lo que conllevaría devolver las cuotas pagadas por los ya inscritos a los curso
 Tambien tiene que enviar una lista de peritos de parte.
 Gestionar una lista circular de los peritos de parte haciendo que el primer perito que se le asigne una pericial pase a ser el último de la lista y si se renueva se quedaría en el pusto que tenga asignado en ese momento.
 
+- **Si un colegiado no ha pagado su cuota anual, no podrá ser perito ni participar como colegiado en ninguna actividad**
+
+
